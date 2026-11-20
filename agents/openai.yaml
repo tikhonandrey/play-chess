@@ -1,0 +1,4 @@
+interface:
+  display_name: "Играть в шахматы"
+  short_description: "Интерактивная шахматная доска рядом с чатом"
+  default_prompt: "Давай сыграем в шахматы с $play-chess."
